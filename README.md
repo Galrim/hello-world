@@ -1,6 +1,7 @@
 # hello-world
 
-the very beginnings of my coding path
-from zero to hero!
+##the very beginnings of my coding path
+**from zero to hero!**
 and what's the most important:
-lubię placki ;)
+*lubię placki!*
+*~Johny Bravo*
